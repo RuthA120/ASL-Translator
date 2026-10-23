@@ -17,7 +17,7 @@ pip install -r requirements.txt
 # Activate virtual environment (Mac/Linux)
 source asl_env/bin/activate
 
-# Activate virtual environment (Windows PowerShell)
+# Activate virtual (Windows PowerShell)
 # .\asl_env\Scripts\Activate
 ```
 
